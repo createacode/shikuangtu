@@ -1,5 +1,6 @@
 # 实况照片播放器（目前只适配了oppo，其他手机实况图尚未适配）
 适配oppo手机拍摄的实况照片的照片播放器，可查看照片和里面的视频
+
 ![实况图播放器UI界面](https://github.com/createacode/shikuangtu/blob/main/shikuangtu_UI.png?raw=true)
 
 ## 实况照片播放器 - 开发文档
