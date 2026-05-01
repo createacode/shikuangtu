@@ -1,7 +1,7 @@
 # 实况照片播放器（目前只适配了oppo，其他手机实况图尚未适配）
 适配oppo手机拍摄的实况照片的照片播放器，可查看照片和里面的视频
 
-##最新请查看重构版【实况照片播放器】https://github.com/createacode/LivePhotoPlayer
+##【最新请查看重构版】实况照片播放器 https://github.com/createacode/LivePhotoPlayer
 
 ![实况图播放器UI界面](https://github.com/createacode/shikuangtu/blob/main/shikuangtu_UI.png?raw=true)
 
